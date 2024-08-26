@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  height: fit-content;
+}
+
+body {
+  height: fit-content;
+}
+
+@media (min-width: 768px) {
+  .custom-background-md {
+    background-position-x: -3rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .custom-background-md {
+    background-position-x: -2rem;
+  }
+}
