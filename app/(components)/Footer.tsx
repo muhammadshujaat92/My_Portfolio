@@ -9,10 +9,10 @@ const Footer = () => {
                 <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://flowbite.com/" className="hover:underline">Portfolio</a>. All Rights Reserved.
                 </span>
                 <ul className="flex items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
-                    <Link href="https://github.com/mshujaat10" className="text-lg me-4 md:me-6"><FaGithub /></Link>
+                    <Link href="https://github.com/muhammadshujaat92" className="text-lg me-4 md:me-6"><FaGithub /></Link>
                     <Link href="https://www.linkedin.com/in/mshujaat3" className="text-lg me-4 md:me-6"><FaLinkedinIn /></Link>
-                    <Link href="https://www.instagram.com/muhammadshujaat56/" className="text-lg me-4 md:me-6"><FaInstagram /></Link>
-                    <Link href="https://www.facebook.com/muhammad.shujaat.5243/" className="text-lg"><FaFacebookF /></Link>
+                    <Link href="https://www.instagram.com/muhammadshujaat56" className="text-lg me-4 md:me-6"><FaInstagram /></Link>
+                    <Link href="https://www.facebook.com/muhammad.shujaat.5243" className="text-lg"><FaFacebookF /></Link>
                 </ul>
             </div>
         </footer>
