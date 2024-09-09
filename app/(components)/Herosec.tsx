@@ -16,9 +16,9 @@ const Herosec = () => {
           <a href="https://github.com/muhammadshujaat92" target="_blank" className="font-bold bg-blue-700 text-white rounded-lg py-2 px-4 md:px-7 md:text-lg">View My Projects</a>
         </div>
         <div className="hidden md:flex">
-          <a aria-hidden href="https://github.com/mshujaat10" target="_blank" className="text-3xl text-gray-700"><FaGithub /></a>
+          <a aria-hidden href="https://github.com/muhammadshujaat92" target="_blank" className="text-3xl text-gray-700"><FaGithub /></a>
           <a aria-hidden href="https://www.linkedin.com/in/mshujaat3" target="_blank" className="text-3xl text-gray-700 mx-4"><FaLinkedinIn /></a>
-          <a aria-hidden href="https://www.instagram.com/muhammadshujaat56/" target="_blank" className="text-3xl text-gray-700"><FaInstagram /></a>
+          <a aria-hidden href="https://www.instagram.com/muhammadshujaat56" target="_blank" className="text-3xl text-gray-700"><FaInstagram /></a>
         </div>
       </div>
       <div className="hidden md:flex items-center justify-end">
